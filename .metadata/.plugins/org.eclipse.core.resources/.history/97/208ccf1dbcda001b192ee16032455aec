@@ -6,6 +6,7 @@ public class ReverseInteger {
 		
 		//1.) Using Algorithm Logic
 		int number = 123456789;
+		
 		 int rev = 0;
 		 
 		 while(number !=0)
