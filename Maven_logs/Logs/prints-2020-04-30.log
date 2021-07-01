@@ -1,0 +1,9 @@
+18:31:04:784 [main] FATAL Beta.Demo1 - Email is missing
+12:01:00:137 [main] ERROR Alpha.Demo - I am failed to click on email link
+12:01:00:141 [main] FATAL Alpha.Demo - This is Fatal
+12:01:00:161 [main] DEBUG Beta.Demo1 - click on email
+12:01:00:161 [main] INFO  Beta.Demo1 - Email is Displayed
+12:01:00:161 [main] ERROR Beta.Demo1 - I am failed to click on email link
+12:01:00:161 [main] FATAL Beta.Demo1 - Email is missing
+12:01:45:658 [main] ERROR Alpha.Demo - I am failed to click on email link
+12:01:45:661 [main] FATAL Alpha.Demo - This is Fatal

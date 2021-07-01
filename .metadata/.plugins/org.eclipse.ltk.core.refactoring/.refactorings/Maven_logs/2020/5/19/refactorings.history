@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Log4j2.xml&apos; to &apos;Maven_E2EFramework/src/main/java/Academy&apos;&#x0A;- Original project: &apos;Maven_logs&apos;&#x0A;- Destination element: &apos;Maven_E2EFramework/src/main/java/Academy&apos;&#x0A;- Original element: &apos;Log4j2.xml&apos;" description="Copy file" destination="=Maven_E2EFramework/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;Academy" element1="Resources/Log4j2.xml" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1588780218375" units="0" version="1.0"/>
+</session>

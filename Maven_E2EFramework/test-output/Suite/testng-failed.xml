@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test thread-count="5" name="QaclickAcademy(failed)">
+    <classes>
+      <class name="Academy.ApplicationTest">
+        <methods>
+          <include name="StartingPoint"/>
+          <include name="LoginPage" invocation-numbers="0 1"/>
+          <include name="EndingPoint"/>
+          <include name="initialize"/>
+          <include name="HomePage"/>
+          <include name="closeBrowser"/>
+        </methods>
+      </class> <!-- Academy.ApplicationTest -->
+    </classes>
+  </test> <!-- QaclickAcademy(failed) -->
+  <test thread-count="5" name="ValidatingTitle(failed)">
+    <classes>
+      <class name="Academy.Validatetitle_Test">
+        <methods>
+          <include name="initialize"/>
+          <include name="BasePageNavigation2"/>
+          <include name="closeBrowser"/>
+          <include name="StartTest"/>
+        </methods>
+      </class> <!-- Academy.Validatetitle_Test -->
+      <class name="Academy.ValidatetitleTest">
+        <methods>
+          <include name="ValidateText"/>
+          <include name="BasePageNavigation1"/>
+          <include name="EndTest"/>
+          <include name="initialize"/>
+          <include name="closeBrowser"/>
+        </methods>
+      </class> <!-- Academy.ValidatetitleTest -->
+    </classes>
+  </test> <!-- ValidatingTitle(failed) -->
+</suite> <!-- Failed suite [Suite] -->

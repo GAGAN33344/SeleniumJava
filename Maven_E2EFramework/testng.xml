@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="QAclickAcademy" parallel="tests">
+	
+<listeners>
+<listener class-name="Academy.Listeners"/>
+</listeners>
+
+
+  <test name="Application">
+    <classes>
+      <class name="Academy.ApplicationTest"/>
+      </classes>
+      </test>
+      
+      <test name = "ValidatingNavigationTitle">
+      <classes> 
+      <class name="Academy.Validatetitle_Test"/>
+      </classes>
+      </test>
+      
+      <test name = "ValidatingTitle">
+      <classes>
+      <class name="Academy.ValidatetitleTest"/>
+    </classes>
+    
+  </test> <!-- Test -->
+  </suite> <!-- Suite -->	

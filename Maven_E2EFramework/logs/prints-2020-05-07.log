@@ -1,0 +1,5 @@
+14:01:32:123 [main] INFO  Academy.Validatetitle_Test - I am going to start the Validatetitle_Test & ValidatetitleTest class
+14:01:37:579 [main] INFO  Academy.Validatetitle_Test - Driver is Initialized
+14:01:37:991 [main] INFO  Academy.Validatetitle_Test - Successfully close the browser
+14:01:37:992 [main] INFO  Academy.Validatetitle_Test - I am going to wrap-up the Validatetitle_Test & ValidatetitleTest class
+14:01:38:009 [main] INFO  Academy.ValidatetitleTest - I am going to start the ApplicationTest class

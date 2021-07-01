@@ -1,0 +1,6 @@
+14:45:42:780 [TestNG-tests-1] INFO  Academy.ApplicationTest - Successfully pass the parameters
+14:45:46:017 [TestNG-tests-1] INFO  Academy.ApplicationTest - Successfully close the browser
+14:45:46:019 [TestNG-tests-1] INFO  Academy.ApplicationTest - I am going to wrapup the ApplicationTest class
+09:18:26:072 [TestNG-tests-2] INFO  Academy.Validatetitle_Test - I am going to start the Validatetitle_Test & ValidatetitleTest class
+09:18:26:072 [TestNG-tests-3] INFO  Academy.ValidatetitleTest - I am going to start the ApplicationTest class
+09:18:26:072 [TestNG-tests-1] INFO  Academy.ApplicationTest - I am going to start the ApplicationTest class

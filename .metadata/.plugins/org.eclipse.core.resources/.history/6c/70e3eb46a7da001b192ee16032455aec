@@ -1,0 +1,10 @@
+package JavaPrograms;
+
+public class RemoveJunkAndSpecialCharacters {
+
+	public static void main(String[] args) {
+		
+
+	}
+
+}

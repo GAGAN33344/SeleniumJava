@@ -1,0 +1,5 @@
+13:06:26:968 [TestNG-tests-3] INFO  Academy.ValidatetitleTest - Successfully Displayed the Validated Text Message
+13:06:28:866 [TestNG-tests-3] INFO  Academy.ValidatetitleTest - Successfully close the browser
+13:06:28:867 [TestNG-tests-3] INFO  Academy.ValidatetitleTest - I am going to wrap-up the Validatetitle_Test & ValidatetitleTest class
+13:06:30:521 [TestNG-tests-1] INFO  Academy.ApplicationTest - Successfully click on login
+13:06:34:306 [TestNG-tests-1] INFO  Academy.ApplicationTest - Successfully pass the parameters

@@ -1,0 +1,19 @@
+package Selenium_Java;
+
+/* In this class first i will go to table and find the runs of each player from 
+   Scoreboard and matches with total.
+ */
+
+
+
+
+
+
+public class tablesDemo {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
