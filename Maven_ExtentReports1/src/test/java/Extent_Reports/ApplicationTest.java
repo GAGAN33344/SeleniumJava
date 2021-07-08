@@ -17,19 +17,19 @@ public class ApplicationTest {
 	@BeforeTest
 	public void Configuration()
 	{
-		String path =System.getProperty("user.dir")+"//reports//index.html";//this line
+		//String path =System.getProperty("user.dir")+"//reports//index.html";//this line
 		//of code means, under the project one reports folder will be created and we will
 		//see index.html file.
-		ExtentSparkReporter reporter = new ExtentSparkReporter(path);//reporter is the object
+		//ExtentSparkReporter reporter = new ExtentSparkReporter(path);//reporter is the object
 		//of ExtentSparkReporter class, this class expect a path, where report will be
 		//created.
-		reporter.config().setReportName("Web Automation Results");
-		reporter.config().setDocumentTitle("Test Results");
+		//reporter.config().setReportName("Web Automation Results");
+		//reporter.config().setDocumentTitle("Test Results");
 		//ExtentSparkReporter class is the helper class, which helps to create a configuration
 		//that will finally report to ExtentReports class.
 		
 		 extent = new ExtentReports();
-		extent.attachReporter(reporter);//now object of ExtentReports have know of reporter
+		//extent.attachReporter(reporter);//now object of ExtentReports have know of reporter
 		//object, which have all settled configuration.
 		extent.setSystemInfo("Tester", "Gagan Mann");
 		
