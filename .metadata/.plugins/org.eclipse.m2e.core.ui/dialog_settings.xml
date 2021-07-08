@@ -2,6 +2,13 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="/Users/GaGaNmAnn/eclipse-workspace/DataDrivenTesting"/>
+			<item value="/Users/GaGaNmAnn/eclipse-workspace/Maven_ExtentReports"/>
+			<item value="/Users/GaGaNmAnn/eclipse-workspace/Mavenjava"/>
+			<item value="/Users/GaGaNmAnn/eclipse-workspace/Maven_TestFramework"/>
+			<item value="/Users/GaGaNmAnn/eclipse-workspace/Maven_POM"/>
+			<item value="/Users/GaGaNmAnn/eclipse-workspace/Maven_E2EFramework"/>
+			<item value="/Users/GaGaNmAnn/eclipse-workspace/Maven_DataDriven"/>
 			<item value="/Users/GaGaNmAnn/Maven_TestFramework"/>
 			<item value="/Users/GaGaNmAnn/Maven_E2EFramework"/>
 			<item value="/Users/GaGaNmAnn/Maven_POM"/>
