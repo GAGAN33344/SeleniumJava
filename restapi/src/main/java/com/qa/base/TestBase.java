@@ -9,6 +9,8 @@ public class TestBase {
 	
 	public Properties prop;
 	
+	public int RESPONSE_STATUS_CODE_200 = 200;
+	
 	public TestBase() {
 		try {
 			prop= new Properties();
