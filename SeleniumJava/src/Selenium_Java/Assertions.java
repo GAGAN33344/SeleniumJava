@@ -16,6 +16,7 @@ import org.testng.Assert;
  */
 public class Assertions {
 
+
 	public static void main(String[] args) {
 	
 		System.setProperty("webdriver.gecko.driver","//Users//GaGaNmAnn//Desktop//geckodriver");

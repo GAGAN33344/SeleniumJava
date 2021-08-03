@@ -51,7 +51,7 @@ public class JDBC_ConnectionTest {
 	   }
 	   
 	   
-	   System.setProperty("webdriver.chrome.driver","//Users//GaGaNmAnn//Desktop//chromedriver");
+	   System.setProperty("webdriver.chrome.driver","D:\\Browser Drivers\\chromedriver.exe");
 	   WebDriver driver = new ChromeDriver();
 	   driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 	   driver.get("https://login.salesforce.com/");

@@ -6,11 +6,13 @@ public class ReverseInteger {
 		
 		//1.) Using Algorithm Logic
 		int number = 123456789;
+		 int r = 0;
 		 int rev = 0;
 		 
 		 while(number !=0)
 		 {
-			 rev = rev * 10 + number % 10 ;
+			 r = number % 10 ;
+			 rev = (rev * 10) + r;
 			 number = number / 10;
 		 }
 

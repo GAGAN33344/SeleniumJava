@@ -1,9 +1,6 @@
 
-
-import java.util.Arrays;
 import java.util.LinkedHashSet;
 import java.util.Set;
-import java.util.stream.Collectors;
 
 public class RemoveDuplicates {
 	public static String removeDuolicates(String str) {

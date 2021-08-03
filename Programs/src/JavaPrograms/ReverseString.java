@@ -1,4 +1,4 @@
-package JavaPrograms;
+ package JavaPrograms;
 
 public class ReverseString {
 
@@ -6,7 +6,9 @@ public class ReverseString {
 		String s = "Gaganpreet";
 		
 		int len = s.length();
-		//System.out.println(len);
+		System.out.println("String length is : " + len);
+		System.out.println("***************");
+		
 		String rev = "";
 		
 		for (int i = len-1; i>=0 ; i--)

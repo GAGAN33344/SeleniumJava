@@ -16,7 +16,7 @@ public class QAstepDefination{
 	WebDriver driver;
 	@Given("^Initialize the browser with chrome$")
 	public void initialize_the_browser_with_chrome() throws Throwable {
-		System.setProperty("webdriver.chrome.driver","//Users//GaGaNmAnn//Desktop//chromedriver");
+		System.setProperty("webdriver.chrome.driver","D:\\Browser Drivers\\chromedriver.exe");
    	 driver = new ChromeDriver();
 
 	}

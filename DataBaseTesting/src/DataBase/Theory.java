@@ -1,7 +1,5 @@
 package DataBase;
 
-
-
 /* Selenium/Appium scripting with database validation
  whole process is--
  1. Download MySQL
@@ -53,13 +51,8 @@ package DataBase;
   password means -- use that password when we start the MySql server.
   
   after that i will pull the data from database and pass into selenium test cases.
-  
-  
  
  */
-
-
-
 public class Theory {
 
 }

@@ -1,9 +1,5 @@
 package Cucumber;
 
-import org.junit.runner.RunWith;
-
-import cucumber.api.junit.Cucumber;
-
 /* Part-1. Understand the importance of Behavior Driven Development.
  cucumber is commonly used tool for all behavior driven development approaches.
  
