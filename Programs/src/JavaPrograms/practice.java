@@ -1,39 +1,33 @@
 package JavaPrograms;
 
-public class practice {
+import java.util.ArrayList;
 
-	public static boolean isPrimeNumber(int num) {
+public class practice {
+	
+	public static void main(String[] str) {
 		
+		int [] num = {2,1,4,11,12,9,7,8,4,9,12,11};
 		
-		if(num<=1) {
-			return false;
-		}
+		ArrayList<Integer> al = new ArrayList<Integer>();
 		
-		for(int i=2; i<num; i++) {
-			if(num % i ==0) {
-				return false;
+		for(int i=0; i<num.length; i++) {
+			int count =0;
+			if(!al.contains(num[i])) {
+				al.add(num[i]);
+				count++;
+				
+				for(int j=i+1; j<num.length; j++) {
+					if(num[i]==num[j]) {
+						count++;
+					}
+				}
+			}
+			if(count==1) {
+				System.out.println(num[i] + " is unique number");
+			
 			}
 		}
-		return true;
-	}
 	
-	public static void getPrimeNumbers(int num) {
-		
-		for(int i=2; i<=num; i++) {
-			if(isPrimeNumber(i))
-				System.out.println(i + "");
-		}
-		
-		
 	}
-	public static void main(String[] args) {
-
-		System.out.println("5 is Prime Number : " + isPrimeNumber(5));
-		System.out.println("10 is Prime Number : " + isPrimeNumber(10));
-		
-		System.out.println("*************");
-		
-		getPrimeNumbers(27);
 	}
 
-}

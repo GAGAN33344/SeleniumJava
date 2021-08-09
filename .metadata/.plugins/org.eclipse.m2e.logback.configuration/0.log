@@ -11793,3 +11793,116 @@ java.util.ConcurrentModificationException: null
 2021-08-03 15:57:32,935 [Worker-129: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaSeleniumGitRepo\SeleniumJava\restapi\src\main\resources
 2021-08-03 15:57:32,937 [Worker-129: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2021-08-03 15:57:32,937 [Worker-129: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaSeleniumGitRepo\SeleniumJava\restapi\src\test\resources
+2021-08-03 16:00:08,633 [Worker-136: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 16:00:08,633 [Worker-136: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaSeleniumGitRepo\SeleniumJava\restapi\src\main\resources
+2021-08-03 16:00:08,634 [Worker-136: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 16:00:08,634 [Worker-136: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaSeleniumGitRepo\SeleniumJava\restapi\src\test\resources
+2021-08-04 11:43:27,089 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-08-05 08:14:46,600 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-08-09 07:59:56,651 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-08-09 08:29:35,776 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-09 08:29:35,776 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaSeleniumGitRepo\SeleniumJava\restapi\src\main\resources
+2021-08-09 08:29:35,779 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-09 08:29:35,779 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaSeleniumGitRepo\SeleniumJava\restapi\src\test\resources
+2021-08-09 08:30:09,661 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-09 08:30:09,661 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaSeleniumGitRepo\SeleniumJava\restapi\src\main\resources
+2021-08-09 08:30:09,662 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-09 08:30:09,662 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaSeleniumGitRepo\SeleniumJava\restapi\src\test\resources
+2021-08-09 08:30:15,979 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-09 08:30:15,979 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaSeleniumGitRepo\SeleniumJava\restapi\src\main\resources
+2021-08-09 08:30:15,981 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-09 08:30:15,981 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaSeleniumGitRepo\SeleniumJava\restapi\src\test\resources
+2021-08-09 08:38:30,310 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-09 08:38:30,316 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaSeleniumGitRepo\SeleniumJava\restapi\src\main\resources
+2021-08-09 08:38:30,318 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-09 08:38:30,318 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaSeleniumGitRepo\SeleniumJava\restapi\src\test\resources
+2021-08-09 08:38:47,339 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-09 08:38:47,339 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaSeleniumGitRepo\SeleniumJava\restapi\src\main\resources
+2021-08-09 08:38:47,340 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-09 08:38:47,341 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaSeleniumGitRepo\SeleniumJava\restapi\src\test\resources
+2021-08-09 08:50:13,434 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-09 08:50:13,435 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaSeleniumGitRepo\SeleniumJava\restapi\src\main\resources
+2021-08-09 08:50:13,436 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-09 08:50:13,436 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaSeleniumGitRepo\SeleniumJava\restapi\src\test\resources
+2021-08-09 08:52:32,628 [Worker-41: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.com.restapitest:restapi:0.0.1-SNAPSHOT @ D:\JavaSeleniumGitRepo\SeleniumJava\restapi\pom.xml.
+2021-08-09 08:52:33,026 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-09 08:52:33,027 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaSeleniumGitRepo\SeleniumJava\restapi\src\main\resources
+2021-08-09 08:52:33,030 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-09 08:52:33,031 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaSeleniumGitRepo\SeleniumJava\restapi\src\test\resources
+2021-08-09 08:52:34,219 [Worker-39: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.12.4/jackson-databind-2.12.4-sources.jar
+2021-08-09 08:52:34,363 [Worker-39: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.12.4/jackson-databind-2.12.4-sources.jar
+2021-08-09 08:52:34,480 [Worker-39: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.core:jackson-databind:2.12.4
+2021-08-09 08:52:34,543 [Worker-39: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.12.4/jackson-annotations-2.12.4-sources.jar
+2021-08-09 08:52:34,571 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-09 08:52:34,571 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaSeleniumGitRepo\SeleniumJava\restapi\src\main\resources
+2021-08-09 08:52:34,574 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-09 08:52:34,574 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaSeleniumGitRepo\SeleniumJava\restapi\src\test\resources
+2021-08-09 08:52:34,581 [Worker-39: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.12.4/jackson-annotations-2.12.4-sources.jar
+2021-08-09 08:52:34,629 [Worker-39: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.core:jackson-annotations:2.12.4
+2021-08-09 08:52:34,699 [Worker-39: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.12.4/jackson-core-2.12.4-sources.jar
+2021-08-09 08:52:34,761 [Worker-39: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.12.4/jackson-core-2.12.4-sources.jar
+2021-08-09 08:52:34,812 [Worker-39: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.core:jackson-core:2.12.4
+2021-08-09 08:52:35,594 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-09 08:52:35,594 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaSeleniumGitRepo\SeleniumJava\restapi\src\main\resources
+2021-08-09 08:52:35,595 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-09 08:52:35,595 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaSeleniumGitRepo\SeleniumJava\restapi\src\test\resources
+2021-08-09 08:56:10,417 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-09 08:56:10,417 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaSeleniumGitRepo\SeleniumJava\restapi\src\main\resources
+2021-08-09 08:56:10,418 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-09 08:56:10,418 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaSeleniumGitRepo\SeleniumJava\restapi\src\test\resources
+2021-08-09 09:01:28,936 [Worker-46: Launching PostAPITest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-09 09:01:28,936 [Worker-46: Launching PostAPITest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaSeleniumGitRepo\SeleniumJava\restapi\src\main\resources
+2021-08-09 09:01:28,939 [Worker-46: Launching PostAPITest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-09 09:01:28,939 [Worker-46: Launching PostAPITest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaSeleniumGitRepo\SeleniumJava\restapi\src\test\resources
+2021-08-09 09:01:39,269 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-09 09:01:39,269 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaSeleniumGitRepo\SeleniumJava\restapi\src\main\resources
+2021-08-09 09:01:39,269 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-09 09:01:39,269 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaSeleniumGitRepo\SeleniumJava\restapi\src\test\resources
+2021-08-09 09:07:10,657 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-09 09:07:10,657 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaSeleniumGitRepo\SeleniumJava\restapi\src\main\resources
+2021-08-09 09:07:10,658 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-09 09:07:10,658 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaSeleniumGitRepo\SeleniumJava\restapi\src\test\resources
+2021-08-09 09:29:05,557 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-09 09:29:05,557 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaSeleniumGitRepo\SeleniumJava\restapi\src\main\resources
+2021-08-09 09:29:05,559 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-09 09:29:05,559 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaSeleniumGitRepo\SeleniumJava\restapi\src\test\resources
+2021-08-09 09:31:44,067 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-09 09:31:44,067 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaSeleniumGitRepo\SeleniumJava\restapi\src\main\resources
+2021-08-09 09:31:44,068 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-09 09:31:44,068 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaSeleniumGitRepo\SeleniumJava\restapi\src\test\resources
+2021-08-09 09:32:55,506 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-09 09:32:55,506 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaSeleniumGitRepo\SeleniumJava\restapi\src\main\resources
+2021-08-09 09:32:55,507 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-09 09:32:55,507 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaSeleniumGitRepo\SeleniumJava\restapi\src\test\resources
+2021-08-09 09:32:56,517 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-09 09:32:56,518 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaSeleniumGitRepo\SeleniumJava\restapi\src\main\resources
+2021-08-09 09:32:56,518 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-09 09:32:56,519 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaSeleniumGitRepo\SeleniumJava\restapi\src\test\resources
+2021-08-09 09:34:29,664 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-09 09:34:29,664 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaSeleniumGitRepo\SeleniumJava\restapi\src\main\resources
+2021-08-09 09:34:29,665 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-09 09:34:29,665 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaSeleniumGitRepo\SeleniumJava\restapi\src\test\resources
+2021-08-09 09:34:30,675 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-09 09:34:30,675 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaSeleniumGitRepo\SeleniumJava\restapi\src\main\resources
+2021-08-09 09:34:30,676 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-09 09:34:30,676 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaSeleniumGitRepo\SeleniumJava\restapi\src\test\resources
+2021-08-09 09:36:28,555 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-09 09:36:28,555 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaSeleniumGitRepo\SeleniumJava\restapi\src\main\resources
+2021-08-09 09:36:28,556 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-09 09:36:28,556 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaSeleniumGitRepo\SeleniumJava\restapi\src\test\resources
+2021-08-09 09:36:29,587 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-09 09:36:29,587 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaSeleniumGitRepo\SeleniumJava\restapi\src\main\resources
+2021-08-09 09:36:29,588 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-09 09:36:29,588 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaSeleniumGitRepo\SeleniumJava\restapi\src\test\resources
+2021-08-09 09:39:45,167 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-09 09:39:45,167 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaSeleniumGitRepo\SeleniumJava\restapi\src\main\resources
+2021-08-09 09:39:45,168 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-09 09:39:45,168 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaSeleniumGitRepo\SeleniumJava\restapi\src\test\resources
+2021-08-09 09:41:18,597 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-09 09:41:18,597 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaSeleniumGitRepo\SeleniumJava\restapi\src\main\resources
+2021-08-09 09:41:18,598 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-09 09:41:18,598 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaSeleniumGitRepo\SeleniumJava\restapi\src\test\resources
+2021-08-09 09:41:39,050 [Worker-61: Launching PostAPITest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-09 09:41:39,050 [Worker-61: Launching PostAPITest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaSeleniumGitRepo\SeleniumJava\restapi\src\main\resources
+2021-08-09 09:41:39,052 [Worker-61: Launching PostAPITest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-09 09:41:39,052 [Worker-61: Launching PostAPITest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaSeleniumGitRepo\SeleniumJava\restapi\src\test\resources

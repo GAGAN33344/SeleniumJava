@@ -91,7 +91,7 @@ public class GetAPITest extends TestBase{
 		System.out.println("Headers Array is : " + allHeaders); 
 	}
 	
-	@Test(priority=2)
+	@Test(priority=2 )
 	public void getAPITestWithHeaders() throws ClientProtocolException, IOException {
 		restClient = new RestClient();
 		HashMap<String, String> headerMap = new HashMap<String, String>();
@@ -151,5 +151,4 @@ public class GetAPITest extends TestBase{
 		}
 		System.out.println("Headers Array is : " + allHeaders); 
 	}
-
 }

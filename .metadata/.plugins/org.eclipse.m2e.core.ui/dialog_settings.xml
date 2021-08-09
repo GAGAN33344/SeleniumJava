@@ -30,6 +30,9 @@
 	</section>
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="D:\JavaSeleniumGitRepo\SeleniumJava"/>
+			<item value="D:\JavaSeleniumGitRepo\SeleniumJava\Maven_E2EFramework"/>
+			<item value="D:\JavaSeleniumGitRepo\SeleniumJava\DataBaseTesting"/>
 			<item value="/Users/GaGaNmAnn/Maven_E2EFramework/src/main/java/resouces1/ExtentReporterNG.java"/>
 			<item value="/Users/GaGaNmAnn/eclipse-workspace/Maven_ExtentReports/src/test/java/Extent_Reports/Theory.java"/>
 			<item value="/Users/GaGaNmAnn/eclipse-workspace/Maven_ExtentReports/src/test/java"/>
@@ -57,10 +60,13 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="org.com.restapitest.restapi"/>
 		</list>
 		<list key="groupId">
+			<item value="org.com.restapitest"/>
 		</list>
 		<list key="artifactId">
+			<item value="restapi"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -76,12 +82,10 @@
 	</section>
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
-			<item value="Cucumber"/>
 		</list>
 		<list key="name">
 		</list>
 		<list key="artifactId">
-			<item value="Maven_Cucumber"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
