@@ -14,7 +14,6 @@
     <fullyQualifiedTypeName name="objectRepository.PortalHomePage"/>
     <fullyQualifiedTypeName name="cucumber.api.java.en.And"/>
     <fullyQualifiedTypeName name="cucumber.api.testng.AbstractTestNGCucumberTests"/>
-    <fullyQualifiedTypeName name="java.util.Arrays"/>
     <fullyQualifiedTypeName name="java.util.stream.Collectors"/>
     <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="java.util.LinkedHashSet"/>
@@ -60,4 +59,5 @@
     <fullyQualifiedTypeName name="com.qa.data.Users"/>
     <fullyQualifiedTypeName name="java.io.File"/>
     <fullyQualifiedTypeName name="io.restassured.RestAssured"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
 </qualifiedTypeNameHistroy>
