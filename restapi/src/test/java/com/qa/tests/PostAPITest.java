@@ -41,7 +41,7 @@ public class PostAPITest extends TestBase{
 		HashMap<String, String> headerMap = new HashMap<String, String>();
 		headerMap.put("Content-Type","application/json");
 		
-		//now we need Jackson Java API to convers Users.java(java object) class to Json format is known as marshaling.
+		//now we need Jackson Java API to converts Users.java(java object) class to Json format is known as marshaling.
 		ObjectMapper mapper = new ObjectMapper();
 		Users users = new Users("morpheus", "leader");//Expected users object
 		

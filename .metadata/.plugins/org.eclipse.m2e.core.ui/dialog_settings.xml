@@ -31,8 +31,8 @@
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
 			<item value="D:\JavaSeleniumGitRepo\SeleniumJava"/>
-			<item value="D:\JavaSeleniumGitRepo\SeleniumJava\Maven_E2EFramework"/>
 			<item value="D:\JavaSeleniumGitRepo\SeleniumJava\DataBaseTesting"/>
+			<item value="D:\JavaSeleniumGitRepo\SeleniumJava\Maven_E2EFramework"/>
 			<item value="/Users/GaGaNmAnn/Maven_E2EFramework/src/main/java/resouces1/ExtentReporterNG.java"/>
 			<item value="/Users/GaGaNmAnn/eclipse-workspace/Maven_ExtentReports/src/test/java/Extent_Reports/Theory.java"/>
 			<item value="/Users/GaGaNmAnn/eclipse-workspace/Maven_ExtentReports/src/test/java"/>
@@ -60,13 +60,13 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
-			<item value="org.com.restapitest.restapi"/>
+			<item value="API.RestAssured"/>
 		</list>
 		<list key="groupId">
-			<item value="org.com.restapitest"/>
+			<item value="API"/>
 		</list>
 		<list key="artifactId">
-			<item value="restapi"/>
+			<item value="RestAssured"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
