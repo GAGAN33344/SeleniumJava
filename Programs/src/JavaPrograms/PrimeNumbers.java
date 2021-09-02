@@ -21,7 +21,7 @@ public class PrimeNumbers {
 		
 		for(int i=2; i<=num; i++) {
 			if(isPrimeNumber(i)) {
-			   System.out.println(i + "");
+			   System.out.print(i + " ");
 			}
 		}
 	}
